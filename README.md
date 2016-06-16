@@ -1,4 +1,4 @@
-# python-arvore-de-huffman
+# [Python] Árvore de Huffman
 
 Código em Python para a Árvore de Huffman.
 
